@@ -3,7 +3,7 @@
     "description":"",
     "dependencies":[],
     "platform": "wii",
-    "game":"EM1",
+    "game":"EM2",
     "custom_textures_path": "textures",
     "custom_game_files_path": "files",
     "icon_path": "icon.png"
