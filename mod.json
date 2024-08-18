@@ -1,0 +1,10 @@
+{
+    "name":"Restored Ink Drips",
+    "description":"",
+    "dependencies":[],
+    "platform": "wii",
+    "game":"EM1",
+    "custom_textures_path": "textures",
+    "custom_game_files_path": "files",
+    "icon_path": "icon.png"
+}
